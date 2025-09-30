@@ -14,9 +14,6 @@
             <RouterLink to="/products" class="inline-flex items-center justify-center gap-2 rounded-lg bg-coffee-600 hover:bg-coffee-700 text-white px-5 py-3 font-medium transition">
               Shop Now
             </RouterLink>
-            <a href="#about" class="inline-flex items-center justify-center gap-2 rounded-lg border px-5 py-3 font-medium hover:bg-crema transition">
-              Learn More
-            </a>
           </div>
         </div>
         <div class="relative">

@@ -1,4 +1,4 @@
-# Roast & Bloom — Artisanal Coffee (Vue 3 + Vite + Pinia + Tailwind)
+# Roast & Bloom - Artisanal Coffee (Vue 3 + Vite + Pinia + Tailwind)
 
 A modern, responsive e‑commerce storefront for a fictional artisanal coffee brand.
 
